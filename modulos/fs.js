@@ -22,7 +22,6 @@ async function escribir(ruta, contenido) {
   } catch (error) {
     console.error(error);
   }
-  
 }
 
 function borrar(ruta) {
